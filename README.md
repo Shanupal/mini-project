@@ -15,7 +15,9 @@ Menu
 4. Salad: $70
 5. Coffee: $80
 6. Momo: $20
+
 How It Works
+
 1. The program displays a welcome message and the menu.
 2. Users can input the name of the item they want to order.
 3. The program checks the availability of the item in the menu:
